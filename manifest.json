@@ -1,0 +1,24 @@
+{
+  "name": "Símbolos de Fé - IPB",
+  "short_name": "Símbolos de Fé",
+  "description": "Confissão de Fé de Westminster, Catecismo Maior e Breve Catecismo",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#00897B",
+  "theme_color": "#00897B",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
